@@ -1,0 +1,61 @@
+.header-bg {
+  background-color: #1e1e30;
+  background-size: cover;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-logo {
+  font-family: Bree Serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #f8fafc;
+  margin-left: 150px;
+}
+.logo-span {
+  color: #3b82f6;
+  font-family: Bree Serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.logo-number {
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.about-text {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #94a3b8;
+}
+.home-text {
+  color: #f8fafc;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.links {
+  width: 280px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 150px;
+}
